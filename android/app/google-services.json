@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64099263206",
+    "project_id": "enezademo",
+    "storage_bucket": "enezademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64099263206:android:b77c60479daf196b221127",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkOtU_iyzKIyfqAaGvfRtV8VGEKLMn40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
